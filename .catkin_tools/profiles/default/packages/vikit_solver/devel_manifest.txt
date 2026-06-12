@@ -1,0 +1,5 @@
+rpg_svo_pro_with_digital_twins/vikit/vikit_solver
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_solver/share/vikit_solver/cmake/vikit_solverConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/vikit_solver/cmake/vikit_solverConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_solver/share/vikit_solver/cmake/vikit_solverConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/vikit_solver/cmake/vikit_solverConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_solver/lib/libvikit_solver.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libvikit_solver.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_solver/lib/pkgconfig/vikit_solver.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/vikit_solver.pc

@@ -1,0 +1,5 @@
+rpg_svo_pro_with_digital_twins/svo
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo/share/svo/cmake/svoConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo/cmake/svoConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo/share/svo/cmake/svoConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo/cmake/svoConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo/lib/libsvo.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libsvo.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo/lib/pkgconfig/svo.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/svo.pc

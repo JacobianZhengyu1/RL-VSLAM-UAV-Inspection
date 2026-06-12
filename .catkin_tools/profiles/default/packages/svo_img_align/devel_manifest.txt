@@ -1,0 +1,5 @@
+rpg_svo_pro_with_digital_twins/svo_img_align
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_img_align/share/svo_img_align/cmake/svo_img_alignConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo_img_align/cmake/svo_img_alignConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_img_align/share/svo_img_align/cmake/svo_img_alignConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo_img_align/cmake/svo_img_alignConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_img_align/lib/libsvo_img_align.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libsvo_img_align.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_img_align/lib/pkgconfig/svo_img_align.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/svo_img_align.pc

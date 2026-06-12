@@ -1,0 +1,5 @@
+rpg_svo_pro_with_digital_twins/vikit/vikit_cameras
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_cameras/share/vikit_cameras/cmake/vikit_camerasConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/vikit_cameras/cmake/vikit_camerasConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_cameras/share/vikit_cameras/cmake/vikit_camerasConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/vikit_cameras/cmake/vikit_camerasConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_cameras/lib/libvikit_cameras.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libvikit_cameras.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_cameras/lib/pkgconfig/vikit_cameras.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/vikit_cameras.pc

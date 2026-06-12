@@ -1,0 +1,7 @@
+rpg_svo_pro_with_digital_twins/svo_online_loopclosing
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_online_loopclosing/lib/libbow.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libbow.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_online_loopclosing/lib/libsvo_online_loopclosing.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libsvo_online_loopclosing.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_online_loopclosing/lib/svo_online_loopclosing/createvoc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/svo_online_loopclosing/createvoc
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_online_loopclosing/lib/pkgconfig/svo_online_loopclosing.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/svo_online_loopclosing.pc

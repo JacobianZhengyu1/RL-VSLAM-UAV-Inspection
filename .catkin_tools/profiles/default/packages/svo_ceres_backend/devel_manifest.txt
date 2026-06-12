@@ -1,0 +1,5 @@
+rpg_svo_pro_with_digital_twins/svo_ceres_backend
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_ceres_backend/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_ceres_backend/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_ceres_backend/lib/libsvo_ceres_backend.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libsvo_ceres_backend.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_ceres_backend/lib/pkgconfig/svo_ceres_backend.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/svo_ceres_backend.pc

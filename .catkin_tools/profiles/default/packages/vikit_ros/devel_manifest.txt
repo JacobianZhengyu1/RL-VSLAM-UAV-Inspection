@@ -1,0 +1,5 @@
+rpg_svo_pro_with_digital_twins/vikit/vikit_ros
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_ros/share/vikit_ros/cmake/vikit_rosConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/vikit_ros/cmake/vikit_rosConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_ros/share/vikit_ros/cmake/vikit_rosConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/vikit_ros/cmake/vikit_rosConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_ros/lib/libvikit_ros.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libvikit_ros.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/vikit_ros/lib/pkgconfig/vikit_ros.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/vikit_ros.pc

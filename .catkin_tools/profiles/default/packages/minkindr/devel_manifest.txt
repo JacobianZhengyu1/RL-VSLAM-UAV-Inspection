@@ -1,0 +1,4 @@
+minkindr/minkindr
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/minkindr/cmake/minkindrConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/minkindr/cmake/minkindrConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/minkindr/lib/pkgconfig/minkindr.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/minkindr.pc

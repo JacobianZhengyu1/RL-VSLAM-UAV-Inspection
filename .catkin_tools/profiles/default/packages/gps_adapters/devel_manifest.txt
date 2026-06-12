@@ -1,0 +1,4 @@
+gps_adapters
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/gps_adapters/share/gps_adapters/cmake/gps_adaptersConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/gps_adapters/cmake/gps_adaptersConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/gps_adapters/share/gps_adapters/cmake/gps_adaptersConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/gps_adapters/cmake/gps_adaptersConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/gps_adapters/lib/pkgconfig/gps_adapters.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/gps_adapters.pc

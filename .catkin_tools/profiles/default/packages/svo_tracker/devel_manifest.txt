@@ -1,0 +1,5 @@
+rpg_svo_pro_with_digital_twins/svo_tracker
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_tracker/share/svo_tracker/cmake/svo_trackerConfig-version.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo_tracker/cmake/svo_trackerConfig-version.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_tracker/share/svo_tracker/cmake/svo_trackerConfig.cmake /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/share/svo_tracker/cmake/svo_trackerConfig.cmake
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_tracker/lib/libsvo_tracker.so /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/libsvo_tracker.so
+/home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/.private/svo_tracker/lib/pkgconfig/svo_tracker.pc /home/zhengyu/svo_catkin_ws_recover/catkin_ws/devel/lib/pkgconfig/svo_tracker.pc
